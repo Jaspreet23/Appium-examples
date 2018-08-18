@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="For Posts verify Create, read, update and delete operations.(failed)">
+    <classes>
+      <class name="android.connection">
+        <methods>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- android.connection -->
+    </classes>
+  </test> <!-- For Posts verify Create, read, update and delete operations.(failed) -->
+</suite> <!-- Failed suite [Suite] -->
